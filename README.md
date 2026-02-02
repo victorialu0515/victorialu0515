@@ -54,7 +54,7 @@ Coming soon! Stay tuned for exciting projects in AI, robotics, and web developme
 ## 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://linkedin.com/in/victorialu0515)
-- 🌐 [Portfolio](https://github.com/victorialu0515)
+- 🌐 Portfolio: *Coming Soon!*
 - 📧 Feel free to reach out for collaborations or just to chat about tech!
 
 ## 📊 GitHub Stats

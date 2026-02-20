@@ -4,10 +4,10 @@ I'm a **Computer Science student at Georgia Tech** 🐝 passionate about buildin
 
 ## 🌟 About Me
 
-- 🎓 Studying Computer Science at **Georgia Institute of Technology**
-- 🤖 Interested in **Artificial Intelligence**, **UI/UX Design**, and **Robotics**
-- 💡 Always exploring new technologies and creative problem-solving approaches
-- 🌱 Currently learning and growing in multiple domains of CS
+- Studying Computer Science at **Georgia Institute of Technology**
+- Interested in **Artificial Intelligence**, **UI/UX Design**, and **Robotics**
+- Always exploring new technologies and creative problem-solving approaches
+- Currently learning and growing in multiple domains of CS
 
 ### 🛠️ Tech Stack
 
